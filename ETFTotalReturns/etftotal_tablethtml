@@ -1,0 +1,308 @@
+<div style="width: 1160px; height: 332px; border: 1px #E1E3E9 solid; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+  <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="flex: 1 1 0; height: 36px; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; height: 36px; padding: 8px; background: #002247; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: center; align-items: center; display: flex">
+        <div style="flex: 1 1 0; height: 20px"></div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; height: 36px; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; height: 36px; padding: 8px; background: #002247; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: center; align-items: center; display: flex">
+        <div style="flex: 1 1 0; height: 20px; justify-content: center; align-items: center; gap: 4px; display: flex">
+          <div style="flex: 1 1 0; text-align: center; color: white; font-size: 18px; font-family: Knockout; font-weight: 500; text-transform: uppercase; line-height: 20px; letter-spacing: 0.50px; word-wrap: break-word">total returns (%)</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="flex: 1 1 0; align-self: stretch; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: #F2F4F6; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid"></div>
+    </div>
+    <div style="flex: 1 1 0; height: 36px; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div style="align-self: stretch; padding: 8px; background: #F2F4F6; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: center; display: inline-flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: center; align-items: center; gap: 4px; display: flex">
+            <div style="text-align: center; color: #002247; font-size: 18px; font-family: Knockout; font-weight: 500; line-height: 20px; word-wrap: break-word">Cumulative</div>
+          </div>
+        </div>
+      </div>
+      <div style="flex: 1 1 0; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+        <div style="align-self: stretch; padding: 8px; background: #F2F4F6; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: center; display: inline-flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: center; align-items: center; gap: 4px; display: flex">
+            <div style="text-align: center; color: #002247; font-size: 18px; font-family: Knockout; font-weight: 500; line-height: 20px; word-wrap: break-word">Average Annual</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="flex: 1 1 0; align-self: stretch; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: #F2F4F6; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid"></div>
+    </div>
+    <div style="flex: 1 1 0; height: 36px; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; align-self: stretch; justify-content: center; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: #F2F4F6; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: center; align-items: center; display: flex">
+          <div style="justify-content: center; align-items: center; gap: 4px; display: flex">
+            <div style="text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 700; line-height: 20px; word-wrap: break-word">YTD</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: #F2F4F6; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: center; align-items: center; display: flex">
+          <div style="justify-content: center; align-items: center; gap: 4px; display: flex">
+            <div style="text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 700; line-height: 20px; word-wrap: break-word">1 Mo</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: #F2F4F6; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: center; align-items: center; display: flex">
+          <div style="justify-content: center; align-items: center; gap: 4px; display: flex">
+            <div style="text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 700; line-height: 20px; word-wrap: break-word">3 Mo</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: #F2F4F6; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: center; align-items: center; display: flex">
+          <div style="justify-content: center; align-items: center; gap: 4px; display: flex">
+            <div style="text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 700; line-height: 20px; word-wrap: break-word">1 Yr</div>
+          </div>
+        </div>
+      </div>
+      <div style="flex: 1 1 0; height: 36px; justify-content: center; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: #F2F4F6; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: center; align-items: center; display: flex">
+          <div style="justify-content: center; align-items: center; gap: 4px; display: flex">
+            <div style="text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 700; line-height: 20px; word-wrap: break-word">3 Yr</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: #F2F4F6; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: center; align-items: center; display: flex">
+          <div style="justify-content: center; align-items: center; gap: 4px; display: flex">
+            <div style="text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 700; line-height: 20px; word-wrap: break-word">5 Yr</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: #F2F4F6; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: center; align-items: center; display: flex">
+          <div style="justify-content: center; align-items: center; gap: 4px; display: flex">
+            <div style="text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 700; line-height: 20px; word-wrap: break-word">10 Yr</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; height: 36px; padding: 8px; background: #F2F4F6; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: center; align-items: center; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: center; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 700; line-height: 20px; word-wrap: break-word">Since Inception</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="flex: 1 1 0; align-self: stretch; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+          <div style="flex: 1 1 0; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">Market Price</div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; height: 56px; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; align-self: stretch; justify-content: center; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">4.69</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">1.18</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">1.18</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">1.18</div>
+          </div>
+        </div>
+      </div>
+      <div style="flex: 1 1 0; height: 56px; justify-content: center; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">-0.52</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">2.31</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">—</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; height: 56px; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 40px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">4.82             1/10/1995</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="flex: 1 1 0; align-self: stretch; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+          <div style="flex: 1 1 0; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">NAV Price</div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; height: 56px; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; align-self: stretch; justify-content: center; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">-0.71</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">1.18</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">1.18</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">1.18</div>
+          </div>
+        </div>
+      </div>
+      <div style="flex: 1 1 0; height: 56px; justify-content: center; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">-0.52</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">2.31</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">—</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; height: 56px; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 40px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">4.82             1/10/1995</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="flex: 1 1 0; align-self: stretch; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+          <div style="flex: 1 1 0; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">Lipper Ultra Short Obligations Funds Average</div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; height: 56px; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; align-self: stretch; justify-content: center; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">-0.71</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">1.18</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">1.18</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">1.18</div>
+          </div>
+        </div>
+      </div>
+      <div style="flex: 1 1 0; height: 56px; justify-content: center; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">-0.52</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">2.31</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">2.31</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; height: 56px; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 40px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">4.82             1/10/1995</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="flex: 1 1 0; align-self: stretch; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+          <div style="flex: 1 1 0; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">ICE BofA US 3-Month Treasury Bill Index</div>
+        </div>
+      </div>
+    </div>
+    <div style="flex: 1 1 0; height: 56px; justify-content: flex-start; align-items: flex-start; display: flex">
+      <div style="flex: 1 1 0; align-self: stretch; justify-content: center; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">-0.71</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">1.18</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">1.18</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">1.18</div>
+          </div>
+        </div>
+      </div>
+      <div style="flex: 1 1 0; height: 56px; justify-content: center; align-items: flex-start; display: flex">
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">-0.52</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">2.31</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 20px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">2.31</div>
+          </div>
+        </div>
+        <div style="flex: 1 1 0; height: 56px; padding: 8px; background: white; border-left: 1px #E1E3E9 solid; border-top: 1px #E1E3E9 solid; justify-content: flex-start; align-items: flex-start; display: flex">
+          <div style="flex: 1 1 0; height: 40px; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+            <div style="flex: 1 1 0; text-align: center; color: #002247; font-size: 13px; font-family: Adobe Garamond Pro; font-weight: 400; line-height: 20px; word-wrap: break-word">4.82             1/10/1995</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
