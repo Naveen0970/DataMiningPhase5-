@@ -1,0 +1,4247 @@
+{
+    "Funds": [
+        {
+            "FundName": "Absolute Return Bond",
+            "FundId": "83",
+            "HyphenatedFundName": "pgim-absolute-return-bond-fund",
+            "TAFundId": "1044",
+            "MinimumInceptionDate": "03/30/2011",
+            "ShareClasses": [
+                {
+                    "FundId": "83",
+                    "FundClassId": "397",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1044",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 299
+                },
+                {
+                    "FundId": "83",
+                    "FundClassId": "398",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1045",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 300
+                },
+                {
+                    "FundId": "83",
+                    "FundClassId": "399",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1046",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 301
+                },
+                {
+                    "FundId": "83",
+                    "FundClassId": "400",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1047",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 302
+                }
+            ],
+            "MDMFundId": 505
+        },
+        {
+            "FundName": "Balanced",
+            "FundId": "37",
+            "HyphenatedFundName": "pgim-balanced-fund",
+            "TAFundId": "0296",
+            "MinimumInceptionDate": "01/04/1993",
+            "ShareClasses": [
+                {
+                    "FundId": "37",
+                    "FundClassId": "164",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0160",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 60
+                },
+                {
+                    "FundId": "37",
+                    "FundClassId": "186",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0296",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 87
+                },
+                {
+                    "FundId": "37",
+                    "FundClassId": "188",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0356",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 116
+                },
+                {
+                    "FundId": "37",
+                    "FundClassId": "1661",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1163",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 409
+                },
+                {
+                    "FundId": "37",
+                    "FundClassId": "91",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1523",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 584
+                }
+            ],
+            "MDMFundId": 459
+        },
+        {
+            "FundName": "California Muni Income",
+            "FundId": "2",
+            "HyphenatedFundName": "pgim-california-muni-income-fund",
+            "TAFundId": "0006",
+            "MinimumInceptionDate": "12/03/1990",
+            "ShareClasses": [
+                {
+                    "FundId": "2",
+                    "FundClassId": "2",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0006",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 4
+                },
+                {
+                    "FundId": "2",
+                    "FundClassId": "189",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0305",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 93
+                },
+                {
+                    "FundId": "2",
+                    "FundClassId": "200",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0417",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 151
+                },
+                {
+                    "FundId": "2",
+                    "FundClassId": "1643",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1188",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 434
+                }
+            ],
+            "MDMFundId": 503
+        },
+        {
+            "FundName": "Conservative Retirement Spending",
+            "FundId": "852",
+            "HyphenatedFundName": "pgim-conservative-retirement-spending-fund",
+            "TAFundId": "2152",
+            "MinimumInceptionDate": "04/03/2024",
+            "ShareClasses": [
+                {
+                    "FundId": "852",
+                    "FundClassId": "2375",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "2152",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 3627
+                }
+            ],
+            "MDMFundId": 1777
+        },
+        {
+            "FundName": "Core Bond",
+            "FundId": "24",
+            "HyphenatedFundName": "pgim-core-bond-fund",
+            "TAFundId": "1128",
+            "MinimumInceptionDate": "01/05/1993",
+            "ShareClasses": [
+                {
+                    "FundId": "24",
+                    "FundClassId": "175",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0161",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 61
+                },
+                {
+                    "FundId": "24",
+                    "FundClassId": "1148",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1128",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 374
+                },
+                {
+                    "FundId": "24",
+                    "FundClassId": "1149",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1129",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 375
+                },
+                {
+                    "FundId": "24",
+                    "FundClassId": "1150",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1130",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 376
+                },
+                {
+                    "FundId": "24",
+                    "FundClassId": "1151",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1131",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 377
+                }
+            ],
+            "MDMFundId": 724
+        },
+        {
+            "FundName": "Core Conservative Bond",
+            "FundId": "708",
+            "HyphenatedFundName": "pgim-core-conservative-bond-fund",
+            "TAFundId": "1159",
+            "MinimumInceptionDate": "11/15/2016",
+            "ShareClasses": [
+                {
+                    "FundId": "708",
+                    "FundClassId": "1645",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1159",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 405
+                }
+            ],
+            "MDMFundId": 747
+        },
+        {
+            "FundName": "Corporate Bond",
+            "FundId": "23",
+            "HyphenatedFundName": "pgim-corporate-bond-fund",
+            "TAFundId": "1136",
+            "MinimumInceptionDate": "01/05/1993",
+            "ShareClasses": [
+                {
+                    "FundId": "23",
+                    "FundClassId": "174",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0159",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 59
+                },
+                {
+                    "FundId": "23",
+                    "FundClassId": "1215",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1136",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 382
+                },
+                {
+                    "FundId": "23",
+                    "FundClassId": "1216",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1137",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 383
+                },
+                {
+                    "FundId": "23",
+                    "FundClassId": "1218",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1138",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 384
+                },
+                {
+                    "FundId": "23",
+                    "FundClassId": "1217",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1139",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 385
+                }
+            ],
+            "MDMFundId": 723
+        },
+        {
+            "FundName": "Emerging Markets Debt Hard Currency",
+            "FundId": "716",
+            "HyphenatedFundName": "pgim-emerging-markets-debt-hard-currency-fund",
+            "TAFundId": "2100",
+            "MinimumInceptionDate": "12/12/2017",
+            "ShareClasses": [
+                {
+                    "FundId": "716",
+                    "FundClassId": "1669",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "2100",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 784
+                },
+                {
+                    "FundId": "716",
+                    "FundClassId": "1670",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "2101",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 785
+                },
+                {
+                    "FundId": "716",
+                    "FundClassId": "1671",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "2102",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 786
+                },
+                {
+                    "FundId": "716",
+                    "FundClassId": "1672",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "2103",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 787
+                }
+            ],
+            "MDMFundId": 461
+        },
+        {
+            "FundName": "Emerging Markets Debt Local Currency",
+            "FundId": "84",
+            "HyphenatedFundName": "pgim-emerging-markets-debt-local-currency-fund",
+            "TAFundId": "1054",
+            "MinimumInceptionDate": "03/30/2011",
+            "ShareClasses": [
+                {
+                    "FundId": "84",
+                    "FundClassId": "401",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1054",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 307
+                },
+                {
+                    "FundId": "84",
+                    "FundClassId": "402",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1055",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 308
+                },
+                {
+                    "FundId": "84",
+                    "FundClassId": "403",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1056",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 309
+                },
+                {
+                    "FundId": "84",
+                    "FundClassId": "404",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1057",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 310
+                }
+            ],
+            "MDMFundId": 508
+        },
+        {
+            "FundName": "Enhanced Retirement Spending",
+            "FundId": "854",
+            "HyphenatedFundName": "pgim-enhanced-retirement-spending-fund",
+            "TAFundId": "2154",
+            "MinimumInceptionDate": "04/03/2024",
+            "ShareClasses": [
+                {
+                    "FundId": "854",
+                    "FundClassId": "2377",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "2154",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 3629
+                }
+            ],
+            "MDMFundId": 1779
+        },
+        {
+            "FundName": "ESG High Yield",
+            "FundId": "789",
+            "HyphenatedFundName": "pgim-esg-high-yield-fund",
+            "TAFundId": "2136",
+            "MinimumInceptionDate": "12/08/2021",
+            "ShareClasses": [
+                {
+                    "FundId": "789",
+                    "FundClassId": "2142",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "2136",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 3395
+                },
+                {
+                    "FundId": "789",
+                    "FundClassId": "2143",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "2137",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3397
+                },
+                {
+                    "FundId": "789",
+                    "FundClassId": "2145",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "2138",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3398
+                },
+                {
+                    "FundId": "789",
+                    "FundClassId": "2144",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "2139",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3396
+                }
+            ],
+            "MDMFundId": 1676
+        },
+        {
+            "FundName": "ESG Short Duration Multi-Sector Bond Fund",
+            "FundId": "798",
+            "HyphenatedFundName": "pgim-esg-short-duration-multi-sector-bond-fund",
+            "TAFundId": "2145",
+            "MinimumInceptionDate": "05/25/2022",
+            "ShareClasses": [
+                {
+                    "FundId": "798",
+                    "FundClassId": "2229",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "2145",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 3487
+                },
+                {
+                    "FundId": "798",
+                    "FundClassId": "2230",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "2146",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3490
+                },
+                {
+                    "FundId": "798",
+                    "FundClassId": "2231",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "2147",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3489
+                },
+                {
+                    "FundId": "798",
+                    "FundClassId": "2232",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "2148",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3488
+                }
+            ],
+            "MDMFundId": 1681
+        },
+        {
+            "FundName": "ESG Total Return Bond",
+            "FundId": "788",
+            "HyphenatedFundName": "pgim-esg-total-return-bond-fund",
+            "TAFundId": "2124",
+            "MinimumInceptionDate": "09/30/2021",
+            "ShareClasses": [
+                {
+                    "FundId": "788",
+                    "FundClassId": "2089",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "2124",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 3275
+                },
+                {
+                    "FundId": "788",
+                    "FundClassId": "2090",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "2125",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3273
+                },
+                {
+                    "FundId": "788",
+                    "FundClassId": "2091",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "2126",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3276
+                },
+                {
+                    "FundId": "788",
+                    "FundClassId": "2092",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "2127",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3274
+                }
+            ],
+            "MDMFundId": 1664
+        },
+        {
+            "FundName": "Floating Rate Income",
+            "FundId": "85",
+            "HyphenatedFundName": "pgim-floating-rate-income-fund",
+            "TAFundId": "1034",
+            "MinimumInceptionDate": "03/30/2011",
+            "ShareClasses": [
+                {
+                    "FundId": "85",
+                    "FundClassId": "405",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1034",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 289
+                },
+                {
+                    "FundId": "85",
+                    "FundClassId": "406",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1035",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 290
+                },
+                {
+                    "FundId": "85",
+                    "FundClassId": "407",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1036",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 291
+                },
+                {
+                    "FundId": "85",
+                    "FundClassId": "1163",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1122",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 368
+                }
+            ],
+            "MDMFundId": 509
+        },
+        {
+            "FundName": "Global Real Estate",
+            "FundId": "41",
+            "HyphenatedFundName": "pgim-global-real-estate-fund",
+            "TAFundId": "0511",
+            "MinimumInceptionDate": "05/05/1998",
+            "ShareClasses": [
+                {
+                    "FundId": "41",
+                    "FundClassId": "208",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0361",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 119
+                },
+                {
+                    "FundId": "41",
+                    "FundClassId": "210",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0450",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 168
+                },
+                {
+                    "FundId": "41",
+                    "FundClassId": "206",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0511",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 193
+                },
+                {
+                    "FundId": "41",
+                    "FundClassId": "538",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1089",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 335
+                },
+                {
+                    "FundId": "41",
+                    "FundClassId": "209",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1548",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 606
+                },
+                {
+                    "FundId": "41",
+                    "FundClassId": "1677",
+                    "ClassName": "R2",
+                    "ISIN": null,
+                    "TAFundId": "4090",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 885
+                },
+                {
+                    "FundId": "41",
+                    "FundClassId": "1678",
+                    "ClassName": "R4",
+                    "ISIN": null,
+                    "TAFundId": "4091",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 886
+                }
+            ],
+            "MDMFundId": 462
+        },
+        {
+            "FundName": "Global Total Return",
+            "FundId": "34",
+            "HyphenatedFundName": "pgim-global-total-return-fund",
+            "TAFundId": "0272",
+            "MinimumInceptionDate": "07/07/1986",
+            "ShareClasses": [
+                {
+                    "FundId": "34",
+                    "FundClassId": "211",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0272",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 81
+                },
+                {
+                    "FundId": "34",
+                    "FundClassId": "213",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0351",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 112
+                },
+                {
+                    "FundId": "34",
+                    "FundClassId": "214",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0442",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 166
+                },
+                {
+                    "FundId": "34",
+                    "FundClassId": "420",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1081",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 327
+                },
+                {
+                    "FundId": "34",
+                    "FundClassId": "1687",
+                    "ClassName": "R2",
+                    "ISIN": null,
+                    "TAFundId": "4092",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 887
+                },
+                {
+                    "FundId": "34",
+                    "FundClassId": "1688",
+                    "ClassName": "R4",
+                    "ISIN": null,
+                    "TAFundId": "4093",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 888
+                }
+            ],
+            "MDMFundId": 512
+        },
+        {
+            "FundName": "Global Total Return (USD Hedged)",
+            "FundId": "717",
+            "HyphenatedFundName": "pgim-global-total-return-usd-hedged-fund",
+            "TAFundId": "2104",
+            "MinimumInceptionDate": "12/12/2017",
+            "ShareClasses": [
+                {
+                    "FundId": "717",
+                    "FundClassId": "1673",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "2104",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 788
+                },
+                {
+                    "FundId": "717",
+                    "FundClassId": "1674",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "2105",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 789
+                },
+                {
+                    "FundId": "717",
+                    "FundClassId": "1675",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "2106",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 790
+                },
+                {
+                    "FundId": "717",
+                    "FundClassId": "1676",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "2107",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 791
+                }
+            ],
+            "MDMFundId": 713
+        },
+        {
+            "FundName": "Government Income",
+            "FundId": "15",
+            "HyphenatedFundName": "pgim-government-income-fund",
+            "TAFundId": "0084",
+            "MinimumInceptionDate": "01/22/1990",
+            "ShareClasses": [
+                {
+                    "FundId": "15",
+                    "FundClassId": "22",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0084",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 35
+                },
+                {
+                    "FundId": "15",
+                    "FundClassId": "215",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0314",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 98
+                },
+                {
+                    "FundId": "15",
+                    "FundClassId": "216",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0406",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 145
+                },
+                {
+                    "FundId": "15",
+                    "FundClassId": "1259",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1152",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 398
+                },
+                {
+                    "FundId": "15",
+                    "FundClassId": "89",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1521",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 582
+                }
+            ],
+            "MDMFundId": 513
+        },
+        {
+            "FundName": "High Yield",
+            "FundId": "16",
+            "HyphenatedFundName": "pgim-high-yield-fund",
+            "TAFundId": "0087",
+            "MinimumInceptionDate": "01/22/1990",
+            "ShareClasses": [
+                {
+                    "FundId": "16",
+                    "FundClassId": "23",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0087",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 36
+                },
+                {
+                    "FundId": "16",
+                    "FundClassId": "220",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0317",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 100
+                },
+                {
+                    "FundId": "16",
+                    "FundClassId": "221",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0408",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 147
+                },
+                {
+                    "FundId": "16",
+                    "FundClassId": "418",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1067",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 318
+                },
+                {
+                    "FundId": "16",
+                    "FundClassId": "85",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1517",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 578
+                },
+                {
+                    "FundId": "16",
+                    "FundClassId": "1683",
+                    "ClassName": "R2",
+                    "ISIN": null,
+                    "TAFundId": "4082",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 877
+                },
+                {
+                    "FundId": "16",
+                    "FundClassId": "1684",
+                    "ClassName": "R4",
+                    "ISIN": null,
+                    "TAFundId": "4083",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 878
+                }
+            ],
+            "MDMFundId": 514
+        },
+        {
+            "FundName": "Income Builder",
+            "FundId": "43",
+            "HyphenatedFundName": "pgim-income-builder-fund",
+            "TAFundId": "0525",
+            "MinimumInceptionDate": "11/18/1998",
+            "ShareClasses": [
+                {
+                    "FundId": "43",
+                    "FundClassId": "347",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0366",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 121
+                },
+                {
+                    "FundId": "43",
+                    "FundClassId": "351",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0455",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 170
+                },
+                {
+                    "FundId": "43",
+                    "FundClassId": "345",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0525",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 197
+                },
+                {
+                    "FundId": "43",
+                    "FundClassId": "1374",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1176",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 422
+                },
+                {
+                    "FundId": "43",
+                    "FundClassId": "349",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1527",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 588
+                }
+            ],
+            "MDMFundId": 464
+        },
+        {
+            "FundName": "Jennison Blend",
+            "FundId": "5",
+            "HyphenatedFundName": "pgim-jennison-blend-fund",
+            "TAFundId": "0021",
+            "MinimumInceptionDate": "01/22/1990",
+            "ShareClasses": [
+                {
+                    "FundId": "5",
+                    "FundClassId": "8",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0021",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 11
+                },
+                {
+                    "FundId": "5",
+                    "FundClassId": "277",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0306",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 94
+                },
+                {
+                    "FundId": "5",
+                    "FundClassId": "278",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0403",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 142
+                },
+                {
+                    "FundId": "5",
+                    "FundClassId": "1642",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1190",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 436
+                }
+            ],
+            "MDMFundId": 466
+        },
+        {
+            "FundName": "Jennison Diversified Growth",
+            "FundId": "50",
+            "HyphenatedFundName": "pgim-jennison-diversified-growth-fund",
+            "TAFundId": "0560",
+            "MinimumInceptionDate": "11/03/1999",
+            "ShareClasses": [
+                {
+                    "FundId": "50",
+                    "FundClassId": "281",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0373",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 128
+                },
+                {
+                    "FundId": "50",
+                    "FundClassId": "279",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0560",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 211
+                },
+                {
+                    "FundId": "50",
+                    "FundClassId": "1639",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1186",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 432
+                },
+                {
+                    "FundId": "50",
+                    "FundClassId": "1640",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1195",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 441
+                }
+            ],
+            "MDMFundId": 467
+        },
+        {
+            "FundName": "Jennison Emerging Markets Equity Opportunities",
+            "FundId": "586",
+            "HyphenatedFundName": "pgim-jennison-emerging-markets-equity-opportunities-fund",
+            "TAFundId": "1114",
+            "MinimumInceptionDate": "09/16/2014",
+            "ShareClasses": [
+                {
+                    "FundId": "586",
+                    "FundClassId": "1133",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1114",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 360
+                },
+                {
+                    "FundId": "586",
+                    "FundClassId": "1134",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1115",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 361
+                },
+                {
+                    "FundId": "586",
+                    "FundClassId": "1135",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1116",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 362
+                },
+                {
+                    "FundId": "586",
+                    "FundClassId": "1136",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1117",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 363
+                }
+            ],
+            "MDMFundId": 468
+        },
+        {
+            "FundName": "Jennison Energy Infrastructure",
+            "FundId": "198",
+            "HyphenatedFundName": "pgim-jennison-mlp-fund",
+            "TAFundId": "1093",
+            "MinimumInceptionDate": "12/18/2013",
+            "ShareClasses": [
+                {
+                    "FundId": "198",
+                    "FundClassId": "556",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1093",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 339
+                },
+                {
+                    "FundId": "198",
+                    "FundClassId": "557",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1094",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 340
+                },
+                {
+                    "FundId": "198",
+                    "FundClassId": "558",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1095",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 341
+                },
+                {
+                    "FundId": "198",
+                    "FundClassId": "1706",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1179",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 425
+                }
+            ],
+            "MDMFundId": 744
+        },
+        {
+            "FundName": "Jennison Financial Services",
+            "FundId": "47",
+            "HyphenatedFundName": "pgim-jennison-financial-services-fund",
+            "TAFundId": "0546",
+            "MinimumInceptionDate": "06/30/1999",
+            "ShareClasses": [
+                {
+                    "FundId": "47",
+                    "FundClassId": "296",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0370",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 125
+                },
+                {
+                    "FundId": "47",
+                    "FundClassId": "297",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0461",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 175
+                },
+                {
+                    "FundId": "47",
+                    "FundClassId": "294",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0546",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 205
+                },
+                {
+                    "FundId": "47",
+                    "FundClassId": "421",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1078",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 324
+                },
+                {
+                    "FundId": "47",
+                    "FundClassId": "1705",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1177",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 423
+                }
+            ],
+            "MDMFundId": 471
+        },
+        {
+            "FundName": "Jennison Focused Growth",
+            "FundId": "56",
+            "HyphenatedFundName": "pgim-jennison-focused-growth-fund",
+            "TAFundId": "0576",
+            "MinimumInceptionDate": "06/02/2000",
+            "ShareClasses": [
+                {
+                    "FundId": "56",
+                    "FundClassId": "192",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0381",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 135
+                },
+                {
+                    "FundId": "56",
+                    "FundClassId": "196",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0465",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 179
+                },
+                {
+                    "FundId": "56",
+                    "FundClassId": "190",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0576",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 225
+                },
+                {
+                    "FundId": "56",
+                    "FundClassId": "529",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1082",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 328
+                }
+            ],
+            "MDMFundId": 472
+        },
+        {
+            "FundName": "Jennison Focused Value",
+            "FundId": "36",
+            "HyphenatedFundName": "pgim-jennison-focused-value-fund",
+            "TAFundId": "0285",
+            "MinimumInceptionDate": "11/07/1996",
+            "ShareClasses": [
+                {
+                    "FundId": "36",
+                    "FundClassId": "37",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0285",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 85
+                },
+                {
+                    "FundId": "36",
+                    "FundClassId": "292",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0354",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 114
+                },
+                {
+                    "FundId": "36",
+                    "FundClassId": "293",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0425",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 157
+                },
+                {
+                    "FundId": "36",
+                    "FundClassId": "1143",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1121",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 367
+                },
+                {
+                    "FundId": "36",
+                    "FundClassId": "92",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1524",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 585
+                }
+            ],
+            "MDMFundId": 470
+        },
+        {
+            "FundName": "Jennison Global Equity Income",
+            "FundId": "73",
+            "HyphenatedFundName": "pgim-jennison-global-equity-income-fund",
+            "TAFundId": "1760",
+            "MinimumInceptionDate": "12/31/1997",
+            "ShareClasses": [
+                {
+                    "FundId": "73",
+                    "FundClassId": "291",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0427",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 159
+                },
+                {
+                    "FundId": "73",
+                    "FundClassId": "395",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1018",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 284
+                },
+                {
+                    "FundId": "73",
+                    "FundClassId": "394",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1063",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 314
+                },
+                {
+                    "FundId": "73",
+                    "FundClassId": "287",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1638",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 663
+                },
+                {
+                    "FundId": "73",
+                    "FundClassId": "285",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1760",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 750
+                }
+            ],
+            "MDMFundId": 469
+        },
+        {
+            "FundName": "Jennison Global Infrastructure",
+            "FundId": "197",
+            "HyphenatedFundName": "pgim-jennison-global-infrastructure-fund",
+            "TAFundId": "1090",
+            "MinimumInceptionDate": "09/25/2013",
+            "ShareClasses": [
+                {
+                    "FundId": "197",
+                    "FundClassId": "553",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1090",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 336
+                },
+                {
+                    "FundId": "197",
+                    "FundClassId": "554",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1091",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 337
+                },
+                {
+                    "FundId": "197",
+                    "FundClassId": "555",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1092",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 338
+                },
+                {
+                    "FundId": "197",
+                    "FundClassId": "1373",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1174",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 420
+                }
+            ],
+            "MDMFundId": 473
+        },
+        {
+            "FundName": "Jennison Global Opportunities",
+            "FundId": "86",
+            "HyphenatedFundName": "pgim-jennison-global-opportunities-fund",
+            "TAFundId": "1037",
+            "MinimumInceptionDate": "03/14/2012",
+            "ShareClasses": [
+                {
+                    "FundId": "86",
+                    "FundClassId": "424",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1037",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 292
+                },
+                {
+                    "FundId": "86",
+                    "FundClassId": "425",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1038",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 293
+                },
+                {
+                    "FundId": "86",
+                    "FundClassId": "426",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1039",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 294
+                },
+                {
+                    "FundId": "86",
+                    "FundClassId": "1145",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1124",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 370
+                },
+                {
+                    "FundId": "86",
+                    "FundClassId": "1833",
+                    "ClassName": "R2",
+                    "ISIN": null,
+                    "TAFundId": "2112",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 796
+                },
+                {
+                    "FundId": "86",
+                    "FundClassId": "1834",
+                    "ClassName": "R4",
+                    "ISIN": null,
+                    "TAFundId": "2113",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 797
+                }
+            ],
+            "MDMFundId": 474
+        },
+        {
+            "FundName": "Jennison Growth",
+            "FundId": "33",
+            "HyphenatedFundName": "pgim-jennison-growth-fund",
+            "TAFundId": "0267",
+            "MinimumInceptionDate": "11/02/1995",
+            "ShareClasses": [
+                {
+                    "FundId": "33",
+                    "FundClassId": "31",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0267",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 79
+                },
+                {
+                    "FundId": "33",
+                    "FundClassId": "298",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0349",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 111
+                },
+                {
+                    "FundId": "33",
+                    "FundClassId": "299",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0413",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 149
+                },
+                {
+                    "FundId": "33",
+                    "FundClassId": "1638",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1196",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 442
+                },
+                {
+                    "FundId": "33",
+                    "FundClassId": "90",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1522",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 583
+                },
+                {
+                    "FundId": "33",
+                    "FundClassId": "1656",
+                    "ClassName": "R2",
+                    "ISIN": null,
+                    "TAFundId": "4086",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 881
+                },
+                {
+                    "FundId": "33",
+                    "FundClassId": "1657",
+                    "ClassName": "R4",
+                    "ISIN": null,
+                    "TAFundId": "4087",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 882
+                }
+            ],
+            "MDMFundId": 475
+        },
+        {
+            "FundName": "Jennison Health Sciences",
+            "FundId": "49",
+            "HyphenatedFundName": "pgim-jennison-health-sciences-fund",
+            "TAFundId": "0550",
+            "MinimumInceptionDate": "06/30/1999",
+            "ShareClasses": [
+                {
+                    "FundId": "49",
+                    "FundClassId": "302",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0372",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 127
+                },
+                {
+                    "FundId": "49",
+                    "FundClassId": "306",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0463",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 177
+                },
+                {
+                    "FundId": "49",
+                    "FundClassId": "300",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0550",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 209
+                },
+                {
+                    "FundId": "49",
+                    "FundClassId": "422",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1079",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 325
+                },
+                {
+                    "FundId": "49",
+                    "FundClassId": "1236",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1151",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 397
+                }
+            ],
+            "MDMFundId": 476
+        },
+        {
+            "FundName": "Jennison International Opportunities",
+            "FundId": "180",
+            "HyphenatedFundName": "pgim-jennison-international-opportunities-fund",
+            "TAFundId": "1083",
+            "MinimumInceptionDate": "06/05/2012",
+            "ShareClasses": [
+                {
+                    "FundId": "180",
+                    "FundClassId": "530",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1083",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 329
+                },
+                {
+                    "FundId": "180",
+                    "FundClassId": "531",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1084",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 330
+                },
+                {
+                    "FundId": "180",
+                    "FundClassId": "532",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1085",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 331
+                },
+                {
+                    "FundId": "180",
+                    "FundClassId": "1235",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1150",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 396
+                },
+                {
+                    "FundId": "180",
+                    "FundClassId": "1654",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1197",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 443
+                },
+                {
+                    "FundId": "180",
+                    "FundClassId": "1835",
+                    "ClassName": "R2",
+                    "ISIN": null,
+                    "TAFundId": "2114",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 798
+                },
+                {
+                    "FundId": "180",
+                    "FundClassId": "1836",
+                    "ClassName": "R4",
+                    "ISIN": null,
+                    "TAFundId": "2115",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 799
+                }
+            ],
+            "MDMFundId": 477
+        },
+        {
+            "FundName": "Jennison International Small-Mid Cap Opportunities",
+            "FundId": "783",
+            "HyphenatedFundName": "pgim-jennison-international-small-mid-cap-opportunities-fund",
+            "TAFundId": "2132",
+            "MinimumInceptionDate": "09/14/2021",
+            "ShareClasses": [
+                {
+                    "FundId": "783",
+                    "FundClassId": "2077",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "2132",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 3269
+                },
+                {
+                    "FundId": "783",
+                    "FundClassId": "2078",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "2133",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3272
+                },
+                {
+                    "FundId": "783",
+                    "FundClassId": "2079",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "2134",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3268
+                },
+                {
+                    "FundId": "783",
+                    "FundClassId": "2080",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "2135",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3270
+                }
+            ],
+            "MDMFundId": 1661
+        },
+        {
+            "FundName": "Jennison Mid-Cap Growth",
+            "FundId": "38",
+            "HyphenatedFundName": "pgim-jennison-mid-cap-growth-fund",
+            "TAFundId": "0298",
+            "MinimumInceptionDate": "12/31/1996",
+            "ShareClasses": [
+                {
+                    "FundId": "38",
+                    "FundClassId": "41",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0298",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 89
+                },
+                {
+                    "FundId": "38",
+                    "FundClassId": "307",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0357",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 117
+                },
+                {
+                    "FundId": "38",
+                    "FundClassId": "308",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0432",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 161
+                },
+                {
+                    "FundId": "38",
+                    "FundClassId": "390",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1066",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 317
+                },
+                {
+                    "FundId": "38",
+                    "FundClassId": "88",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1520",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 581
+                },
+                {
+                    "FundId": "38",
+                    "FundClassId": "1681",
+                    "ClassName": "R2",
+                    "ISIN": null,
+                    "TAFundId": "4080",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 875
+                },
+                {
+                    "FundId": "38",
+                    "FundClassId": "1682",
+                    "ClassName": "R4",
+                    "ISIN": null,
+                    "TAFundId": "4081",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 876
+                }
+            ],
+            "MDMFundId": 478
+        },
+        {
+            "FundName": "Jennison Natural Resources",
+            "FundId": "11",
+            "HyphenatedFundName": "pgim-jennison-natural-resources-fund",
+            "TAFundId": "0032",
+            "MinimumInceptionDate": "01/22/1990",
+            "ShareClasses": [
+                {
+                    "FundId": "11",
+                    "FundClassId": "14",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0032",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 17
+                },
+                {
+                    "FundId": "11",
+                    "FundClassId": "309",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0312",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 97
+                },
+                {
+                    "FundId": "11",
+                    "FundClassId": "310",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0416",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 150
+                },
+                {
+                    "FundId": "11",
+                    "FundClassId": "384",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1068",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 319
+                },
+                {
+                    "FundId": "11",
+                    "FundClassId": "100",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1534",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 593
+                }
+            ],
+            "MDMFundId": 480
+        },
+        {
+            "FundName": "Jennison NextGeneration Global Opportunities",
+            "FundId": "782",
+            "HyphenatedFundName": "pgim-jennison-nextgeneration-global-opportunities-fund",
+            "TAFundId": "2128",
+            "MinimumInceptionDate": "09/14/2021",
+            "ShareClasses": [
+                {
+                    "FundId": "782",
+                    "FundClassId": "2081",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "2128",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 3249
+                },
+                {
+                    "FundId": "782",
+                    "FundClassId": "2082",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "2129",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3250
+                },
+                {
+                    "FundId": "782",
+                    "FundClassId": "2083",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "2130",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3267
+                },
+                {
+                    "FundId": "782",
+                    "FundClassId": "2084",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "2131",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3271
+                }
+            ],
+            "MDMFundId": 1662
+        },
+        {
+            "FundName": "Jennison Rising Dividend",
+            "FundId": "200",
+            "HyphenatedFundName": "pgim-jennison-rising-dividend-fund",
+            "TAFundId": "1101",
+            "MinimumInceptionDate": "03/05/2014",
+            "ShareClasses": [
+                {
+                    "FundId": "200",
+                    "FundClassId": "564",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1101",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 347
+                },
+                {
+                    "FundId": "200",
+                    "FundClassId": "565",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1102",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 348
+                },
+                {
+                    "FundId": "200",
+                    "FundClassId": "566",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1103",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 349
+                },
+                {
+                    "FundId": "200",
+                    "FundClassId": "1637",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1187",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 433
+                }
+            ],
+            "MDMFundId": 481
+        },
+        {
+            "FundName": "Jennison Small Company",
+            "FundId": "7",
+            "HyphenatedFundName": "pgim-jennison-small-company-fund",
+            "TAFundId": "0025",
+            "MinimumInceptionDate": "01/22/1990",
+            "ShareClasses": [
+                {
+                    "FundId": "7",
+                    "FundClassId": "10",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0025",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 13
+                },
+                {
+                    "FundId": "7",
+                    "FundClassId": "199",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0316",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 99
+                },
+                {
+                    "FundId": "7",
+                    "FundClassId": "201",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0407",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 146
+                },
+                {
+                    "FundId": "7",
+                    "FundClassId": "375",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1060",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 311
+                },
+                {
+                    "FundId": "7",
+                    "FundClassId": "93",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1525",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 586
+                },
+                {
+                    "FundId": "7",
+                    "FundClassId": "1658",
+                    "ClassName": "R2",
+                    "ISIN": null,
+                    "TAFundId": "4088",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 883
+                },
+                {
+                    "FundId": "7",
+                    "FundClassId": "1659",
+                    "ClassName": "R4",
+                    "ISIN": null,
+                    "TAFundId": "4089",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 884
+                }
+            ],
+            "MDMFundId": 482
+        },
+        {
+            "FundName": "Jennison Small-Cap Core Equity",
+            "FundId": "709",
+            "HyphenatedFundName": "pgim-jennison-small-cap-core-equity-fund",
+            "TAFundId": "1158",
+            "MinimumInceptionDate": "11/15/2016",
+            "ShareClasses": [
+                {
+                    "FundId": "709",
+                    "FundClassId": "1646",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1158",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 404
+                }
+            ],
+            "MDMFundId": 651
+        },
+        {
+            "FundName": "Jennison Technology",
+            "FundId": "726",
+            "HyphenatedFundName": "pgim-jennison-technology-fund",
+            "TAFundId": "2108",
+            "MinimumInceptionDate": "06/19/2018",
+            "ShareClasses": [
+                {
+                    "FundId": "726",
+                    "FundClassId": "1730",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "2108",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 792
+                },
+                {
+                    "FundId": "726",
+                    "FundClassId": "1731",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "2109",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 793
+                },
+                {
+                    "FundId": "726",
+                    "FundClassId": "1733",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "2110",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 794
+                },
+                {
+                    "FundId": "726",
+                    "FundClassId": "1732",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "2111",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 795
+                }
+            ],
+            "MDMFundId": 483
+        },
+        {
+            "FundName": "Jennison Utility",
+            "FundId": "3",
+            "HyphenatedFundName": "pgim-jennison-utility-fund",
+            "TAFundId": "0009",
+            "MinimumInceptionDate": "01/22/1990",
+            "ShareClasses": [
+                {
+                    "FundId": "3",
+                    "FundClassId": "3",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0009",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 5
+                },
+                {
+                    "FundId": "3",
+                    "FundClassId": "202",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0342",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 108
+                },
+                {
+                    "FundId": "3",
+                    "FundClassId": "203",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0412",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 148
+                },
+                {
+                    "FundId": "3",
+                    "FundClassId": "1707",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1178",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 424
+                },
+                {
+                    "FundId": "3",
+                    "FundClassId": "99",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1533",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 592
+                }
+            ],
+            "MDMFundId": 484
+        },
+        {
+            "FundName": "Jennison Value",
+            "FundId": "8",
+            "HyphenatedFundName": "pgim-jennison-value-fund",
+            "TAFundId": "0026",
+            "MinimumInceptionDate": "01/22/1990",
+            "ShareClasses": [
+                {
+                    "FundId": "8",
+                    "FundClassId": "11",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0026",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 14
+                },
+                {
+                    "FundId": "8",
+                    "FundClassId": "204",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0307",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 95
+                },
+                {
+                    "FundId": "8",
+                    "FundClassId": "205",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0404",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 143
+                },
+                {
+                    "FundId": "8",
+                    "FundClassId": "419",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1065",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 316
+                },
+                {
+                    "FundId": "8",
+                    "FundClassId": "94",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1526",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 587
+                }
+            ],
+            "MDMFundId": 485
+        },
+        {
+            "FundName": "Moderate Retirement Spending",
+            "FundId": "853",
+            "HyphenatedFundName": "pgim-moderate-retirement-spending-fund",
+            "TAFundId": "2153",
+            "MinimumInceptionDate": "04/03/2024",
+            "ShareClasses": [
+                {
+                    "FundId": "853",
+                    "FundClassId": "2376",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "2153",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 3628
+                }
+            ],
+            "MDMFundId": 1778
+        },
+        {
+            "FundName": "Muni High Income",
+            "FundId": "9",
+            "HyphenatedFundName": "pgim-muni-high-income-fund",
+            "TAFundId": "0028",
+            "MinimumInceptionDate": "01/22/1990",
+            "ShareClasses": [
+                {
+                    "FundId": "9",
+                    "FundClassId": "12",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0028",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 15
+                },
+                {
+                    "FundId": "9",
+                    "FundClassId": "244",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0322",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 102
+                },
+                {
+                    "FundId": "9",
+                    "FundClassId": "245",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0418",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 152
+                },
+                {
+                    "FundId": "9",
+                    "FundClassId": "1391",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1185",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 431
+                }
+            ],
+            "MDMFundId": 540
+        },
+        {
+            "FundName": "National Muni",
+            "FundId": "6",
+            "HyphenatedFundName": "pgim-national-muni-fund",
+            "TAFundId": "0022",
+            "MinimumInceptionDate": "01/22/1990",
+            "ShareClasses": [
+                {
+                    "FundId": "6",
+                    "FundClassId": "9",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0022",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 12
+                },
+                {
+                    "FundId": "6",
+                    "FundClassId": "248",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0336",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 106
+                },
+                {
+                    "FundId": "6",
+                    "FundClassId": "249",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0458",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 173
+                },
+                {
+                    "FundId": "6",
+                    "FundClassId": "1667",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1189",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 435
+                }
+            ],
+            "MDMFundId": 504
+        },
+        {
+            "FundName": "Quant Solutions Commodity Strategies",
+            "FundId": "707",
+            "HyphenatedFundName": "pgim-quant-solutions-commodity-strategies-fund",
+            "TAFundId": "1161",
+            "MinimumInceptionDate": "11/15/2016",
+            "ShareClasses": [
+                {
+                    "FundId": "707",
+                    "FundClassId": "1644",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1161",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 407
+                },
+                {
+                    "FundId": "707",
+                    "FundClassId": "2203",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "2140",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 3459
+                }
+            ],
+            "MDMFundId": 749
+        },
+        {
+            "FundName": "Quant Solutions Emerging Markets Equity",
+            "FundId": "710",
+            "HyphenatedFundName": "pgim-quant-solutions-emerging-markets-equity-fund",
+            "TAFundId": "1157",
+            "MinimumInceptionDate": "11/29/2016",
+            "ShareClasses": [
+                {
+                    "FundId": "710",
+                    "FundClassId": "1647",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1157",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 403
+                }
+            ],
+            "MDMFundId": 757
+        },
+        {
+            "FundName": "Quant Solutions International Developed Markets Index",
+            "FundId": "711",
+            "HyphenatedFundName": "pgim-quant-solutions-international-developed-markets-index-fund",
+            "TAFundId": "1156",
+            "MinimumInceptionDate": "11/17/2016",
+            "ShareClasses": [
+                {
+                    "FundId": "711",
+                    "FundClassId": "1648",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1156",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 402
+                }
+            ],
+            "MDMFundId": 756
+        },
+        {
+            "FundName": "Quant Solutions International Equity",
+            "FundId": "55",
+            "HyphenatedFundName": "pgim-quant-solutions-international-equity-fund",
+            "TAFundId": "0574",
+            "MinimumInceptionDate": "03/01/2000",
+            "ShareClasses": [
+                {
+                    "FundId": "55",
+                    "FundClassId": "224",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0380",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 134
+                },
+                {
+                    "FundId": "55",
+                    "FundClassId": "229",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0464",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 178
+                },
+                {
+                    "FundId": "55",
+                    "FundClassId": "222",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0574",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 223
+                },
+                {
+                    "FundId": "55",
+                    "FundClassId": "1369",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1173",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 419
+                }
+            ],
+            "MDMFundId": 489
+        },
+        {
+            "FundName": "Quant Solutions Large-Cap Core",
+            "FundId": "46",
+            "HyphenatedFundName": "pgim-quant-solutions-large-cap-core-fund",
+            "TAFundId": "0533",
+            "MinimumInceptionDate": "03/03/1999",
+            "ShareClasses": [
+                {
+                    "FundId": "46",
+                    "FundClassId": "331",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0369",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 124
+                },
+                {
+                    "FundId": "46",
+                    "FundClassId": "335",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0459",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 174
+                },
+                {
+                    "FundId": "46",
+                    "FundClassId": "329",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0533",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 203
+                },
+                {
+                    "FundId": "46",
+                    "FundClassId": "1371",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1171",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 417
+                }
+            ],
+            "MDMFundId": 490
+        },
+        {
+            "FundName": "Quant Solutions Large-Cap Index Fund",
+            "FundId": "54",
+            "HyphenatedFundName": "pgim-quant-solutions-large-cap-index-fund",
+            "TAFundId": "0573",
+            "MinimumInceptionDate": "11/05/1992",
+            "ShareClasses": [
+                {
+                    "FundId": "54",
+                    "FundClassId": "267",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0165",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 63
+                },
+                {
+                    "FundId": "54",
+                    "FundClassId": "265",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0379",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 133
+                },
+                {
+                    "FundId": "54",
+                    "FundClassId": "263",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0573",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 222
+                },
+                {
+                    "FundId": "54",
+                    "FundClassId": "266",
+                    "ClassName": "I",
+                    "ISIN": null,
+                    "TAFundId": "0598",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 234
+                },
+                {
+                    "FundId": "54",
+                    "FundClassId": "1666",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1162",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 408
+                }
+            ],
+            "MDMFundId": 496
+        },
+        {
+            "FundName": "Quant Solutions Large-Cap Value",
+            "FundId": "58",
+            "HyphenatedFundName": "pgim-quant-solutions-large-cap-value-fund",
+            "TAFundId": "0586",
+            "MinimumInceptionDate": "03/30/2001",
+            "ShareClasses": [
+                {
+                    "FundId": "58",
+                    "FundClassId": "270",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0383",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 137
+                },
+                {
+                    "FundId": "58",
+                    "FundClassId": "271",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0468",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 181
+                },
+                {
+                    "FundId": "58",
+                    "FundClassId": "268",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0586",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 229
+                },
+                {
+                    "FundId": "58",
+                    "FundClassId": "1223",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1126",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 372
+                },
+                {
+                    "FundId": "58",
+                    "FundClassId": "1384",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1180",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 426
+                }
+            ],
+            "MDMFundId": 492
+        },
+        {
+            "FundName": "Quant Solutions Mid-Cap Index",
+            "FundId": "712",
+            "HyphenatedFundName": "pgim-quant-solutions-mid-cap-index-fund",
+            "TAFundId": "1155",
+            "MinimumInceptionDate": "11/17/2016",
+            "ShareClasses": [
+                {
+                    "FundId": "712",
+                    "FundClassId": "1649",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1155",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 401
+                }
+            ],
+            "MDMFundId": 750
+        },
+        {
+            "FundName": "Quant Solutions Mid-Cap Value",
+            "FundId": "69",
+            "HyphenatedFundName": "pgim-quant-solutions-mid-cap-value-fund",
+            "TAFundId": "1756",
+            "MinimumInceptionDate": "08/19/1998",
+            "ShareClasses": [
+                {
+                    "FundId": "69",
+                    "FundClassId": "238",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0499",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 190
+                },
+                {
+                    "FundId": "69",
+                    "FundClassId": "391",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1061",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 312
+                },
+                {
+                    "FundId": "69",
+                    "FundClassId": "1146",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1125",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 371
+                },
+                {
+                    "FundId": "69",
+                    "FundClassId": "234",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1634",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 659
+                },
+                {
+                    "FundId": "69",
+                    "FundClassId": "232",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1756",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 746
+                },
+                {
+                    "FundId": "69",
+                    "FundClassId": "1691",
+                    "ClassName": "R2",
+                    "ISIN": null,
+                    "TAFundId": "4096",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 891
+                },
+                {
+                    "FundId": "69",
+                    "FundClassId": "1692",
+                    "ClassName": "R4",
+                    "ISIN": null,
+                    "TAFundId": "4097",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 892
+                }
+            ],
+            "MDMFundId": 494
+        },
+        {
+            "FundName": "Quant Solutions Small-Cap Value",
+            "FundId": "28",
+            "HyphenatedFundName": "pgim-quant-solutions-small-cap-value-fund",
+            "TAFundId": "1100",
+            "MinimumInceptionDate": "01/05/1993",
+            "ShareClasses": [
+                {
+                    "FundId": "28",
+                    "FundClassId": "179",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0171",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 67
+                },
+                {
+                    "FundId": "28",
+                    "FundClassId": "563",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1100",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 346
+                },
+                {
+                    "FundId": "28",
+                    "FundClassId": "1138",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1119",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 365
+                },
+                {
+                    "FundId": "28",
+                    "FundClassId": "1222",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1127",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 373
+                },
+                {
+                    "FundId": "28",
+                    "FundClassId": "413",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1538",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 597
+                },
+                {
+                    "FundId": "28",
+                    "FundClassId": "1679",
+                    "ClassName": "R2",
+                    "ISIN": null,
+                    "TAFundId": "4078",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 873
+                },
+                {
+                    "FundId": "28",
+                    "FundClassId": "1680",
+                    "ClassName": "R4",
+                    "ISIN": null,
+                    "TAFundId": "4079",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 874
+                }
+            ],
+            "MDMFundId": 495
+        },
+        {
+            "FundName": "Real Assets",
+            "FundId": "82",
+            "HyphenatedFundName": "pgim-real-assets-fund",
+            "TAFundId": "1050",
+            "MinimumInceptionDate": "12/30/2010",
+            "ShareClasses": [
+                {
+                    "FundId": "82",
+                    "FundClassId": "386",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1050",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 303
+                },
+                {
+                    "FundId": "82",
+                    "FundClassId": "388",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1052",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 305
+                },
+                {
+                    "FundId": "82",
+                    "FundClassId": "389",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1053",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 306
+                },
+                {
+                    "FundId": "82",
+                    "FundClassId": "1147",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1123",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 369
+                }
+            ],
+            "MDMFundId": 716
+        },
+        {
+            "FundName": "Real Estate Income",
+            "FundId": "648",
+            "HyphenatedFundName": "pgim-real-estate-income-fund",
+            "TAFundId": "1140",
+            "MinimumInceptionDate": "06/03/2015",
+            "ShareClasses": [
+                {
+                    "FundId": "648",
+                    "FundClassId": "1219",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1140",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 386
+                },
+                {
+                    "FundId": "648",
+                    "FundClassId": "1220",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1141",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 387
+                },
+                {
+                    "FundId": "648",
+                    "FundClassId": "1221",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1142",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 388
+                },
+                {
+                    "FundId": "648",
+                    "FundClassId": "1372",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1172",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 418
+                }
+            ],
+            "MDMFundId": 499
+        },
+        {
+            "FundName": "Securitized Credit",
+            "FundId": "757",
+            "HyphenatedFundName": "pgim-securitized-credit-fund",
+            "TAFundId": "2116",
+            "MinimumInceptionDate": "11/16/2015",
+            "ShareClasses": [
+                {
+                    "FundId": "757",
+                    "FundClassId": "1886",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "2116",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 950
+                },
+                {
+                    "FundId": "757",
+                    "FundClassId": "1887",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "2117",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 951
+                },
+                {
+                    "FundId": "757",
+                    "FundClassId": "1888",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "2118",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 952
+                },
+                {
+                    "FundId": "757",
+                    "FundClassId": "1889",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "2119",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 953
+                }
+            ],
+            "MDMFundId": 516
+        },
+        {
+            "FundName": "Select Real Estate",
+            "FundId": "473",
+            "HyphenatedFundName": "pgim-select-real-estate-fund",
+            "TAFundId": "1110",
+            "MinimumInceptionDate": "08/01/2014",
+            "ShareClasses": [
+                {
+                    "FundId": "473",
+                    "FundClassId": "994",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1110",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 356
+                },
+                {
+                    "FundId": "473",
+                    "FundClassId": "995",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1111",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 357
+                },
+                {
+                    "FundId": "473",
+                    "FundClassId": "997",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1112",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 358
+                },
+                {
+                    "FundId": "473",
+                    "FundClassId": "996",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1113",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 359
+                }
+            ],
+            "MDMFundId": 500
+        },
+        {
+            "FundName": "Short Duration High Yield Income",
+            "FundId": "181",
+            "HyphenatedFundName": "pgim-short-duration-high-yield-income-fund",
+            "TAFundId": "1086",
+            "MinimumInceptionDate": "10/26/2012",
+            "ShareClasses": [
+                {
+                    "FundId": "181",
+                    "FundClassId": "533",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1086",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 332
+                },
+                {
+                    "FundId": "181",
+                    "FundClassId": "534",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1087",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 333
+                },
+                {
+                    "FundId": "181",
+                    "FundClassId": "535",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1088",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 334
+                },
+                {
+                    "FundId": "181",
+                    "FundClassId": "1142",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1120",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 366
+                }
+            ],
+            "MDMFundId": 517
+        },
+        {
+            "FundName": "Short Duration Multi-Sector Bond",
+            "FundId": "199",
+            "HyphenatedFundName": "pgim-short-duration-multi-sector-bond-fund",
+            "TAFundId": "1096",
+            "MinimumInceptionDate": "12/23/2013",
+            "ShareClasses": [
+                {
+                    "FundId": "199",
+                    "FundClassId": "559",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1096",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 342
+                },
+                {
+                    "FundId": "199",
+                    "FundClassId": "560",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1097",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 343
+                },
+                {
+                    "FundId": "199",
+                    "FundClassId": "562",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1098",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 344
+                },
+                {
+                    "FundId": "199",
+                    "FundClassId": "561",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1099",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 345
+                }
+            ],
+            "MDMFundId": 518
+        },
+        {
+            "FundName": "Short Duration Muni",
+            "FundId": "471",
+            "HyphenatedFundName": "pgim-short-duration-muni-fund",
+            "TAFundId": "1107",
+            "MinimumInceptionDate": "05/29/2014",
+            "ShareClasses": [
+                {
+                    "FundId": "471",
+                    "FundClassId": "991",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1107",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 353
+                },
+                {
+                    "FundId": "471",
+                    "FundClassId": "992",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1108",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 354
+                },
+                {
+                    "FundId": "471",
+                    "FundClassId": "993",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1109",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 355
+                },
+                {
+                    "FundId": "471",
+                    "FundClassId": "1387",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1183",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 429
+                }
+            ],
+            "MDMFundId": 541
+        },
+        {
+            "FundName": "Short-Term Corporate Bond",
+            "FundId": "14",
+            "HyphenatedFundName": "pgim-short-term-corporate-bond-fund",
+            "TAFundId": "0078",
+            "MinimumInceptionDate": "09/01/1989",
+            "ShareClasses": [
+                {
+                    "FundId": "14",
+                    "FundClassId": "20",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0078",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 31
+                },
+                {
+                    "FundId": "14",
+                    "FundClassId": "250",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0339",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 107
+                },
+                {
+                    "FundId": "14",
+                    "FundClassId": "251",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0434",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 162
+                },
+                {
+                    "FundId": "14",
+                    "FundClassId": "423",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1080",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 326
+                },
+                {
+                    "FundId": "14",
+                    "FundClassId": "86",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1518",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 579
+                },
+                {
+                    "FundId": "14",
+                    "FundClassId": "1685",
+                    "ClassName": "R2",
+                    "ISIN": null,
+                    "TAFundId": "4084",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 879
+                },
+                {
+                    "FundId": "14",
+                    "FundClassId": "1686",
+                    "ClassName": "R4",
+                    "ISIN": null,
+                    "TAFundId": "4085",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 880
+                }
+            ],
+            "MDMFundId": 519
+        },
+        {
+            "FundName": "Strategic Bond",
+            "FundId": "653",
+            "HyphenatedFundName": "pgim-strategic-bond-fund",
+            "TAFundId": "1143",
+            "MinimumInceptionDate": "07/09/2015",
+            "ShareClasses": [
+                {
+                    "FundId": "653",
+                    "FundClassId": "1228",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1143",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 389
+                },
+                {
+                    "FundId": "653",
+                    "FundClassId": "1229",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1144",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 390
+                },
+                {
+                    "FundId": "653",
+                    "FundClassId": "1230",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1145",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 391
+                },
+                {
+                    "FundId": "653",
+                    "FundClassId": "1385",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1181",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 427
+                }
+            ],
+            "MDMFundId": 520
+        },
+        {
+            "FundName": "TIPS",
+            "FundId": "714",
+            "HyphenatedFundName": "pgim-tips-fund",
+            "TAFundId": "1160",
+            "MinimumInceptionDate": "11/15/2016",
+            "ShareClasses": [
+                {
+                    "FundId": "714",
+                    "FundClassId": "1651",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1160",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 406
+                }
+            ],
+            "MDMFundId": 748
+        },
+        {
+            "FundName": "Total Return Bond",
+            "FundId": "32",
+            "HyphenatedFundName": "pgim-total-return-bond-fund",
+            "TAFundId": "0264",
+            "MinimumInceptionDate": "01/10/1995",
+            "ShareClasses": [
+                {
+                    "FundId": "32",
+                    "FundClassId": "29",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "0264",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 77
+                },
+                {
+                    "FundId": "32",
+                    "FundClassId": "272",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "0347",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 110
+                },
+                {
+                    "FundId": "32",
+                    "FundClassId": "274",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "0422",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 155
+                },
+                {
+                    "FundId": "32",
+                    "FundClassId": "385",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1062",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 313
+                },
+                {
+                    "FundId": "32",
+                    "FundClassId": "273",
+                    "ClassName": "R",
+                    "ISIN": null,
+                    "TAFundId": "1545",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 604
+                },
+                {
+                    "FundId": "32",
+                    "FundClassId": "1689",
+                    "ClassName": "R2",
+                    "ISIN": null,
+                    "TAFundId": "4094",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 889
+                },
+                {
+                    "FundId": "32",
+                    "FundClassId": "1690",
+                    "ClassName": "R4",
+                    "ISIN": null,
+                    "TAFundId": "4095",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 890
+                }
+            ],
+            "MDMFundId": 521
+        },
+        {
+            "FundName": "US Real Estate",
+            "FundId": "81",
+            "HyphenatedFundName": "pgim-us-real-estate-fund",
+            "TAFundId": "1030",
+            "MinimumInceptionDate": "12/21/2010",
+            "ShareClasses": [
+                {
+                    "FundId": "81",
+                    "FundClassId": "380",
+                    "ClassName": "A",
+                    "ISIN": null,
+                    "TAFundId": "1030",
+                    "IsPrimary": true,
+                    "MDMShareClassId": 285
+                },
+                {
+                    "FundId": "81",
+                    "FundClassId": "382",
+                    "ClassName": "C",
+                    "ISIN": null,
+                    "TAFundId": "1032",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 287
+                },
+                {
+                    "FundId": "81",
+                    "FundClassId": "383",
+                    "ClassName": "Z",
+                    "ISIN": null,
+                    "TAFundId": "1033",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 288
+                },
+                {
+                    "FundId": "81",
+                    "FundClassId": "1390",
+                    "ClassName": "R6",
+                    "ISIN": null,
+                    "TAFundId": "1184",
+                    "IsPrimary": false,
+                    "MDMShareClassId": 430
+                }
+            ],
+            "MDMFundId": 501
+        }
+    ],
+    "funddata": {
+        "TotalReturns": [
+            {
+                "Year": 2023,
+                "Name": "A",
+                "Value": "7.4603",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2023,
+                "Name": "C",
+                "Value": "6.7274",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2023,
+                "Name": "R6",
+                "Value": "7.9384",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2023,
+                "Name": "Z",
+                "Value": "7.7199",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2022,
+                "Name": "A",
+                "Value": "-1.4087",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2022,
+                "Name": "C",
+                "Value": "-2.2706",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2022,
+                "Name": "R6",
+                "Value": "-1.1961",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2022,
+                "Name": "Z",
+                "Value": "-1.1297",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2021,
+                "Name": "A",
+                "Value": "1.8829",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2021,
+                "Name": "C",
+                "Value": "1.1184",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2021,
+                "Name": "R6",
+                "Value": "2.3280",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2021,
+                "Name": "Z",
+                "Value": "2.1322",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2020,
+                "Name": "A",
+                "Value": "0.3083",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2020,
+                "Name": "C",
+                "Value": "-0.4419",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2020,
+                "Name": "R6",
+                "Value": "0.5264",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2020,
+                "Name": "Z",
+                "Value": "0.5627",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2019,
+                "Name": "A",
+                "Value": "7.2941",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2019,
+                "Name": "C",
+                "Value": "6.4748",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2019,
+                "Name": "R6",
+                "Value": "7.6390",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2019,
+                "Name": "Z",
+                "Value": "7.5827",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2018,
+                "Name": "A",
+                "Value": "0.4166",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2018,
+                "Name": "C",
+                "Value": "-0.3409",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2018,
+                "Name": "R6",
+                "Value": "0.6359",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2018,
+                "Name": "Z",
+                "Value": "0.6964",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2017,
+                "Name": "A",
+                "Value": "6.5344",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2017,
+                "Name": "C",
+                "Value": "5.7382",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2017,
+                "Name": "R6",
+                "Value": "6.7222",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2017,
+                "Name": "Z",
+                "Value": "6.6678",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2016,
+                "Name": "A",
+                "Value": "4.6883",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2016,
+                "Name": "C",
+                "Value": "3.9108",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2016,
+                "Name": "R6",
+                "Value": "5.0437",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2016,
+                "Name": "Z",
+                "Value": "5.0397",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2015,
+                "Name": "A",
+                "Value": "-1.2662",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2015,
+                "Name": "C",
+                "Value": "-1.9931",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2015,
+                "Name": "R6",
+                "Value": "-0.8510",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2015,
+                "Name": "Z",
+                "Value": "-1.0160",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2014,
+                "Name": "A",
+                "Value": "1.7663",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2014,
+                "Name": "C",
+                "Value": "1.0992",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2014,
+                "Name": "R6",
+                "Value": "2.0676",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2014,
+                "Name": "Z",
+                "Value": "2.1134",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2013,
+                "Name": "A",
+                "Value": "1.5034",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2013,
+                "Name": "C",
+                "Value": "0.7259",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2013,
+                "Name": "R6",
+                "Value": "1.7304",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2013,
+                "Name": "Z",
+                "Value": "1.6455",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2012,
+                "Name": "A",
+                "Value": "7.2437",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2012,
+                "Name": "C",
+                "Value": "6.4096",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2012,
+                "Name": "R6",
+                "Value": "7.6229",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2012,
+                "Name": "Z",
+                "Value": "7.5636",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2011,
+                "Name": "A",
+                "Value": null,
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2011,
+                "Name": "C",
+                "Value": null,
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2011,
+                "Name": "R6",
+                "Value": null,
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2011,
+                "Name": "Z",
+                "Value": null,
+                "MDMShareClassId": 302
+            }
+        ],
+        "Prices": [
+            {
+                "Year": 2023,
+                "Name": "A",
+                "Value": "8.9600",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2023,
+                "Name": "C",
+                "Value": "8.9900",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2023,
+                "Name": "R6",
+                "Value": "8.9600",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2023,
+                "Name": "Z",
+                "Value": "9.0000",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2022,
+                "Name": "A",
+                "Value": "8.8000",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2022,
+                "Name": "C",
+                "Value": "8.8200",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2022,
+                "Name": "R6",
+                "Value": "8.7900",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2022,
+                "Name": "Z",
+                "Value": "8.8400",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2021,
+                "Name": "A",
+                "Value": "9.2000",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2021,
+                "Name": "C",
+                "Value": "9.2300",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2021,
+                "Name": "R6",
+                "Value": "9.2000",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2021,
+                "Name": "Z",
+                "Value": "9.2400",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2020,
+                "Name": "A",
+                "Value": "9.2500",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2020,
+                "Name": "C",
+                "Value": "9.2800",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2020,
+                "Name": "R6",
+                "Value": "9.2400",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2020,
+                "Name": "Z",
+                "Value": "9.2900",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2019,
+                "Name": "A",
+                "Value": "9.5300",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2019,
+                "Name": "C",
+                "Value": "9.5600",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2019,
+                "Name": "R6",
+                "Value": "9.5300",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2019,
+                "Name": "Z",
+                "Value": "9.5700",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2018,
+                "Name": "A",
+                "Value": "9.5500",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2018,
+                "Name": "C",
+                "Value": "9.5800",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2018,
+                "Name": "R6",
+                "Value": "9.5500",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2018,
+                "Name": "Z",
+                "Value": "9.5900",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2017,
+                "Name": "A",
+                "Value": "9.9600",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2017,
+                "Name": "C",
+                "Value": "9.9900",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2017,
+                "Name": "R6",
+                "Value": "9.9700",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2017,
+                "Name": "Z",
+                "Value": "10.0000",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2016,
+                "Name": "A",
+                "Value": "9.5900",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2016,
+                "Name": "C",
+                "Value": "9.6200",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2016,
+                "Name": "R6",
+                "Value": "9.6100",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2016,
+                "Name": "Z",
+                "Value": "9.6400",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2015,
+                "Name": "A",
+                "Value": "9.3600",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2015,
+                "Name": "C",
+                "Value": "9.3900",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2015,
+                "Name": "R6",
+                "Value": "9.3800",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2015,
+                "Name": "Z",
+                "Value": "9.4000",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2014,
+                "Name": "A",
+                "Value": "9.6800",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2014,
+                "Name": "C",
+                "Value": "9.7100",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2014,
+                "Name": "R6",
+                "Value": "9.6900",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2014,
+                "Name": "Z",
+                "Value": "9.7200",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2013,
+                "Name": "A",
+                "Value": "9.8200",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2013,
+                "Name": "C",
+                "Value": "9.8400",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2013,
+                "Name": "R6",
+                "Value": "9.8300",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2013,
+                "Name": "Z",
+                "Value": "9.8500",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2012,
+                "Name": "A",
+                "Value": "9.9600",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2012,
+                "Name": "C",
+                "Value": "9.9800",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2012,
+                "Name": "R6",
+                "Value": "9.9800",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2012,
+                "Name": "Z",
+                "Value": "10.0000",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2011,
+                "Name": "A",
+                "Value": "9.5700",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2011,
+                "Name": "C",
+                "Value": "9.5900",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2011,
+                "Name": "R6",
+                "Value": "9.5900",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2011,
+                "Name": "Z",
+                "Value": "9.6000",
+                "MDMShareClassId": 302
+            }
+        ],
+        "Distributions": [
+            {
+                "Year": 2023,
+                "Name": "A",
+                "Value": "0.4791",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2023,
+                "Name": "C",
+                "Value": "0.4098",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2023,
+                "Name": "R6",
+                "Value": "0.5081",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2023,
+                "Name": "Z",
+                "Value": "0.5034",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2022,
+                "Name": "A",
+                "Value": "0.2689",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2022,
+                "Name": "C",
+                "Value": "0.2000",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2022,
+                "Name": "R6",
+                "Value": "0.2981",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2022,
+                "Name": "Z",
+                "Value": "0.2936",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2021,
+                "Name": "A",
+                "Value": "0.2227",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2021,
+                "Name": "C",
+                "Value": "0.1533",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2021,
+                "Name": "R6",
+                "Value": "0.2530",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2021,
+                "Name": "Z",
+                "Value": "0.2463",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2020,
+                "Name": "A",
+                "Value": "0.2926",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2020,
+                "Name": "C",
+                "Value": "0.2253",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2020,
+                "Name": "R6",
+                "Value": "0.3215",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2020,
+                "Name": "Z",
+                "Value": "0.3155",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2019,
+                "Name": "A",
+                "Value": "0.7021",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2019,
+                "Name": "C",
+                "Value": "0.6291",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2019,
+                "Name": "R6",
+                "Value": "0.7327",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2019,
+                "Name": "Z",
+                "Value": "0.7312",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2018,
+                "Name": "A",
+                "Value": "0.4525",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2018,
+                "Name": "C",
+                "Value": "0.3775",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2018,
+                "Name": "R6",
+                "Value": "0.4840",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2018,
+                "Name": "Z",
+                "Value": "0.4803",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2017,
+                "Name": "A",
+                "Value": "0.2506",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2017,
+                "Name": "C",
+                "Value": "0.1784",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2017,
+                "Name": "R6",
+                "Value": "0.2787",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2017,
+                "Name": "Z",
+                "Value": "0.2758",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2016,
+                "Name": "A",
+                "Value": "0.2038",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2016,
+                "Name": "C",
+                "Value": "0.1343",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2016,
+                "Name": "R6",
+                "Value": "0.2368",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2016,
+                "Name": "Z",
+                "Value": "0.2276",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2015,
+                "Name": "A",
+                "Value": "0.1998",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2015,
+                "Name": "C",
+                "Value": "0.1285",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2015,
+                "Name": "R6",
+                "Value": "0.2298",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2015,
+                "Name": "Z",
+                "Value": "0.2237",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2014,
+                "Name": "A",
+                "Value": "0.3131",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2014,
+                "Name": "C",
+                "Value": "0.2387",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2014,
+                "Name": "R6",
+                "Value": "0.3425",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2014,
+                "Name": "Z",
+                "Value": "0.3373",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2013,
+                "Name": "A",
+                "Value": "0.2868",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2013,
+                "Name": "C",
+                "Value": "0.2111",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2013,
+                "Name": "R6",
+                "Value": "0.3192",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2013,
+                "Name": "Z",
+                "Value": "0.3113",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2012,
+                "Name": "A",
+                "Value": "0.2946",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2012,
+                "Name": "C",
+                "Value": "0.2191",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2012,
+                "Name": "R6",
+                "Value": "0.3308",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2012,
+                "Name": "Z",
+                "Value": "0.3164",
+                "MDMShareClassId": 302
+            },
+            {
+                "Year": 2011,
+                "Name": "A",
+                "Value": "0.2291",
+                "MDMShareClassId": 299
+            },
+            {
+                "Year": 2011,
+                "Name": "C",
+                "Value": "0.1596",
+                "MDMShareClassId": 300
+            },
+            {
+                "Year": 2011,
+                "Name": "R6",
+                "Value": "0.2430",
+                "MDMShareClassId": 301
+            },
+            {
+                "Year": 2011,
+                "Name": "Z",
+                "Value": "0.2253",
+                "MDMShareClassId": 302
+            }
+        ]
+    }
+}

@@ -1,0 +1,144 @@
+
+
+import { ApiClient } from "./api-client.js";
+import { ApiEndpoint } from './api-endpoints';
+
+function renderTable(container) {
+
+    // Get the singleton instance of ApiClient
+    const apiClient = ApiClient.getInstance();
+
+    // Define the endpointKey and any additional options
+    const endpointKey = ApiEndpoint.TRANSACTION_DATA;  // Replace with your actual endpoint key
+    const options = {
+        method: 'GET',  // Or POST, PUT, etc.
+        queryParams: {
+            IncludeHistory: 'Y',
+            ETFType: '12',
+        }
+    };
+
+
+    // Make the API request
+    apiClient.request(endpointKey, options)
+        .then(response => {
+            const excludedTickers = ["PQJA", "PQAP", "PQJL", "PQOC"];
+            const targetOutcomeRow = container.getElementsByClassName('target-outcome-row')[0];
+            const remainingPeriodRow = container.getElementsByClassName('remaining-period-row')[0];
+            const periodStartDateRow = container.getElementsByClassName('period-start-date-row')[0];
+            const periodEndDateRow = container.getElementsByClassName('period-end-date-row')[0];
+            const etfReturnMarketPriceRow = container.getElementsByClassName('etf-return-market-price-row')[0];
+            const referenceAssetReturnRow = container.getElementsByClassName('reference-asset-return-row')[0];
+            const startingCapGrossRow = container.getElementsByClassName('starting-cap-gross-row')[0];
+            const startingCapNetRow = container.getElementsByClassName('starting-cap-net-row')[0];
+            const startingBufferGrossRow = container.getElementsByClassName('starting-buffer-gross-row')[0];
+            const startingBufferNetRow = container.getElementsByClassName('starting-buffer-net-row')[0];
+            const remainingCapGrossRow = container.getElementsByClassName('remaining-cap-gross-row')[0];
+            const remainingCapNetRow = container.getElementsByClassName('remaining-cap-net-row')[0];
+            const remainingBufferGrossRow = container.getElementsByClassName('remaining-buffer-gross-row')[0];
+            const remainingBufferNetRow = container.getElementsByClassName('remaining-buffer-net-row')[0];
+            const asOfDate = formatUTCToEST(response.data[0].asOfDate);
+            container.getElementsByClassName("ladderedETFAsofDate")[0].innerHTML = asOfDate;
+            container.getElementsByClassName("ladderedETFTableAsofDate")[0].innerHTML = asOfDate;
+            response.data.forEach(item => {
+                if (excludedTickers.includes(item.ticker)) {
+                    return;
+                }
+                const targetOutcomeCell = document.createElement('th');
+                targetOutcomeCell.textContent = item.ticker;
+                targetOutcomeRow.appendChild(targetOutcomeCell);
+
+                const remainingPeriodCell = document.createElement('td');
+                remainingPeriodCell.textContent = item.etfGlobalData[0].daysInYear;
+                remainingPeriodRow.appendChild(remainingPeriodCell);
+
+                const periodStartDateCell = document.createElement('td');
+                periodStartDateCell.textContent = formatUTCDate(item.etfGlobalData[0].outcomePeriodStartDate);
+                periodStartDateRow.appendChild(periodStartDateCell);
+
+                const periodEndDateCell = document.createElement('td');
+                periodEndDateCell.textContent = formatUTCDate(item.etfGlobalData[0].outcomePeriodEndDate);
+                periodEndDateRow.appendChild(periodEndDateCell);
+
+                const etfReturnMarketPriceCell = document.createElement('td');
+                etfReturnMarketPriceCell.textContent = item.etfGlobalData[0].cumulativeETFReturnNet;
+                etfReturnMarketPriceRow.appendChild(etfReturnMarketPriceCell);
+
+                const referenceAssetReturnCell = document.createElement('td');
+                referenceAssetReturnCell.textContent = item.etfGlobalData[0].cumulativeReferenceAssetReturn;
+                referenceAssetReturnRow.appendChild(referenceAssetReturnCell);
+
+                const startingCapGrossCell = document.createElement('td');
+                startingCapGrossCell.textContent = item.etfGlobalData[0].startingCapGross;
+                startingCapGrossRow.appendChild(startingCapGrossCell);
+
+                const startingCapNetCell = document.createElement('td');
+                startingCapNetCell.textContent = item.etfGlobalData[0].startingCapNet;
+                startingCapNetRow.appendChild(startingCapNetCell);
+
+                const startingBufferGrossCell = document.createElement('td');
+                startingBufferGrossCell.textContent = item.etfGlobalData[0].bufferGrossNet;
+                startingBufferGrossRow.appendChild(startingBufferGrossCell);
+
+                const startingBufferNetCell = document.createElement('td');
+                startingBufferNetCell.textContent = item.etfGlobalData[0].startingBufferNet;
+                startingBufferNetRow.appendChild(startingBufferNetCell);
+
+                const remainingCapGrossCell = document.createElement('td');
+                remainingCapGrossCell.textContent = item.etfGlobalData[0].remainingCapGross;
+                remainingCapGrossRow.appendChild(remainingCapGrossCell);
+
+                const remainingCapNetCell = document.createElement('td');
+                remainingCapNetCell.textContent = item.etfGlobalData[0].remainingCapNet;
+                remainingCapNetRow.appendChild(remainingCapNetCell);
+
+                const remainingBufferGrossCell = document.createElement('td');
+                remainingBufferGrossCell.textContent = item.etfGlobalData[0].remainingBufferGross;
+                remainingBufferGrossRow.appendChild(remainingBufferGrossCell);
+
+                const remainingBufferNetCell = document.createElement('td');
+                remainingBufferNetCell.textContent = item.etfGlobalData[0].remainingBufferNet;
+                remainingBufferNetRow.appendChild(remainingBufferNetCell);
+            });
+        })
+        .catch(error => {
+            console.error('API request error:', error);
+        });
+}
+
+function formatUTCDate(utcDateString) {
+    const date = new Date(utcDateString);
+    return date.toLocaleDateString("en-US", {
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit"
+    });
+}
+
+function formatUTCToEST(utcDateStr) {
+    // Convert the UTC date string to a Date object
+    const utcDate = new Date(utcDateStr);
+
+    // Define options for formatting
+    const options = {
+        timeZone: 'America/New_York',  // Convert to Eastern Time (EST/EDT)
+        year: 'numeric',
+        month: 'numeric',
+        day: 'numeric',
+        hour: 'numeric',
+        minute: '2-digit',
+        hour12: true,  // Use 12-hour format
+    };
+
+    // Format the date according to the specified options
+    const formattedDate = new Intl.DateTimeFormat('en-US', options).format(utcDate);
+
+    return `${formattedDate} EST`;
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+    const containers = document.querySelectorAll(".laddered-etf-stackedbar-wtable-component");
+    containers.forEach(container => {
+        renderTable(container);
+    });
+});
